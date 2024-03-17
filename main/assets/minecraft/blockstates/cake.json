@@ -1,0 +1,39 @@
+{
+    "variants": {
+        "bites=0": [
+             { "model": "block/cake" },
+             { "model": "block/cake_0" },
+             { "model": "block/cake_1" }
+	],
+        "bites=1": [
+             { "model": "block/cake_slice1" },
+             { "model": "block/cake_slice1_0" },
+             { "model": "block/cake_slice1_1" }
+	],
+        "bites=2": [
+             { "model": "block/cake_slice2" },
+             { "model": "block/cake_slice2_0" },
+             { "model": "block/cake_slice2_1" }
+	],
+        "bites=3": [
+             { "model": "block/cake_slice3" },
+             { "model": "block/cake_slice3_0" },
+             { "model": "block/cake_slice3_1" }
+	],
+        "bites=4": [
+             { "model": "block/cake_slice4" },
+             { "model": "block/cake_slice4_0" },
+             { "model": "block/cake_slice4_1" }
+	],
+        "bites=5": [
+             { "model": "block/cake_slice5" },
+             { "model": "block/cake_slice5_0" },
+             { "model": "block/cake_slice5_1" }
+	],
+        "bites=6": [
+             { "model": "block/cake_slice6" },
+             { "model": "block/cake_slice6_0" },
+             { "model": "block/cake_slice6_1" }
+	]
+    }
+}

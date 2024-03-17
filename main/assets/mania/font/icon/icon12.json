@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "mania:img/mania.png",
+      "ascent": 16,
+      "height": 27,
+      "chars": ["\ue011"]
+    }
+  ]
+}
